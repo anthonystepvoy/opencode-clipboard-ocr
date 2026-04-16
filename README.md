@@ -12,6 +12,9 @@ Paste screenshot. Extract text locally. Send OCR to any OpenCode model.
 - Does not send the image to the model.
 - Does not require a vision model.
 
+<img width="1049" height="603" alt="{426E9970-B3E0-4428-A22E-366D90D77208}" src="https://github.com/user-attachments/assets/bd599f1d-ec88-46fd-bb2a-1bd0f71bd8e3" />
+
+
 ## Limits
 
 - Windows-only for now.
