@@ -1,0 +1,17 @@
+{
+  "name": "opencode-clipboard-ocr",
+  "version": "0.1.0",
+  "description": "Clipboard screenshot OCR for OpenCode, so text-only models can read image-based errors and terminal output.",
+  "type": "module",
+  "license": "MIT",
+  "scripts": {
+    "check": "node --check plugins/paste-image.js"
+  },
+  "keywords": [
+    "opencode",
+    "ocr",
+    "clipboard",
+    "screenshot",
+    "windows"
+  ]
+}
